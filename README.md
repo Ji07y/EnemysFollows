@@ -1,5 +1,6 @@
 # EnemysFollow
 ![image](https://github.com/Ji07y/EnemysFollows/assets/85076732/c889553d-8dc6-4e5c-9549-76bbd2ffeba7)
+link video YouTube: https://youtu.be/9zCp6Sm9few
 
 Aplicación de principios y arquitecturas de sistemas hipermedia,este proyecto en Unity esta diseñado para que un enemigo siga al jugador y a su vez que dispara balas al jugador además controla las vidas del jugador. A continuación, se presenta una breve descripción de las características y funcionalidades:
  
